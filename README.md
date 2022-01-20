@@ -3,6 +3,9 @@
 
 a simple, express based server for creating microservices.
 
+![Test](https://github.com/danielzzz/microservice-server/actions/workflows/test.yml/badge.svg)
+
+
 ## Installation
 
 1) Clone this repository

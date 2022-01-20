@@ -1,6 +1,7 @@
 // this is an example shipit file to deploy it on your server
 // you will need to edit it with your data
 // also make sure that your ~/.bash_profile file on the server loads nvm/node
+// as shipit doesn't load profile scripts by default
 
 // shipitfile.js
 module.exports = (shipit) => {
