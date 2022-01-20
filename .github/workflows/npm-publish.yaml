@@ -18,7 +18,6 @@ jobs:
       - uses: borales/actions-yarn@v2.3.0
         with:
           cmd: test
-      - run: ./build.sh
 
   publish-npm:
     needs: build
